@@ -1,0 +1,34 @@
+﻿美赛论文内容主要包括：abstract（摘要）、introduction（引言）、
+symbolsandassumption（符号与假设）、modelestablishment and solution（模型建立与求解）、
+extraanalysis and model optimization（分析与模型优化）、
+conclusionand suggestion（结论与建议）、reference（参考文献）、appendix（附录）
+
+
+The best contest papers present complete and logical analysis in an organized and clear 
+presentation above and beyond simply addressing the requirements. These papers are easy to 
+read, easy to follow, logical, and comprehensive. These papers will usually include sections that 
+address assumptions with justifications, modeling process(es), results of modeling/analysis, 
+strengths and weaknesses, sensitivity, and conclusions. These papers have in line documentation, 
+footnotes, or endnotes with associated references. 
+
+
+
+
+扬长避短。
+比如，计算能力差的队，收集整理资料能力弱的队。
+国情、文化背景。MCM/ICM中不少题目是以美国生活为背景的。
+
+模型储备、计算能力和写作水平三个主要方面
+    微积分线性代数概率论与数理统计规划模型微分方程模型图论模型计算机仿真方法
+    再扩展一点，可以了解以下内容：
+    博弈论模型微观经济学基本原理元胞自动机模型群体决策模型智能计算（遗传算法、模拟退火算法、蚁群算法等）
+    基本的数字图像处理方法常见的模式识别算法（聚类算法、神经网络、支撑向量机等）
+
+
+
+    文献检索，数据收集（搜索引擎，数据库）编程能力至少能够熟练使用一种高级语言常见的数值计算方法
+    常用的图论算法文本文件读取、处理数字图像（基本概念，读取，简单加工）
+    常用图表绘制参考文献管理科技论文排版（规范，软件）文本文件编辑器（*）正则表达式（*）版本控制（*）
+
+
+链接：https://www.zhihu.com/question/51699663/answer/130626639
